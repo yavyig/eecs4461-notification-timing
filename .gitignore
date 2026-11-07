@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+docs/del02_1_unsaved_draft.json
+docs/concise_section_revisions.json
+docs/writing_review.txt
+docs/download_source.py

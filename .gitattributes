@@ -1,0 +1,2 @@
+# Keep preserved upstream files and generated outputs byte-for-byte unchanged.
+* -text

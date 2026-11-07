@@ -1,0 +1,35 @@
+Local verification performed on 2026-11-07
+Windows, Python 3.12.14, Mesa 3.5.1
+
+python run_source.py
+PASS: preserved local model and agents completed 10 steps.
+100 agents, total wealth 100, all wealth values nonnegative.
+The source Gini value is stochastic and not part of project results.
+
+python -m src.project_model.run
+PASS: generated all 8 output files.
+baseline: notification_count=12, alert_episodes=12,
+          mean_presentation_delay_minutes=0, max_presentation_delay_minutes=0
+alternative: notification_count=12, alert_episodes=6,
+             mean_presentation_delay_minutes=5, max_presentation_delay_minutes=8
+
+python -m unittest discover -s tests -v
+PASS: all 6 tests.
+- conservation and no early or duplicate release
+- controlled results against independent arithmetic
+- exact batch boundary and simultaneous arrivals
+- horizon flush and no empty alert episodes
+- immediate simultaneous notifications share one alert episode
+- invalid arrival rejected
+
+Both timeline PNGs visually reviewed for readable labels, legends, and data marks.
+Fresh-environment verification performed on 2026-11-07
+PASS: installed requirements.txt into a new Python virtual environment.
+PASS: ran an isolated copy of the publication files, without local project records.
+PASS: preserved source completed 10 steps with 100 agents and total wealth 100.
+PASS: adapted model produced the reported results and all six tests passed.
+PASS: all six CSV files matched the original outputs byte-for-byte.
+PASS: both PNG figures matched the original outputs pixel-for-pixel.
+
+Released-file verification is recorded in the GitHub DEL02 Release notes.
+The optional upstream Streamlit app was not tested or installed.

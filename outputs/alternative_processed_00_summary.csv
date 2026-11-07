@@ -1,0 +1,2 @@
+condition,notification_count,alert_episodes,mean_presentation_delay_minutes,max_presentation_delay_minutes
+alternative,12,6,5,8

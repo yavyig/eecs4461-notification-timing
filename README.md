@@ -72,7 +72,3 @@ Six checks cover exact batch boundaries, simultaneous arrivals, horizon flushing
 The current slice includes no human agent, attention measure, app content, network latency, interruption levels, urgency labels, deadlines, or authorized urgent bypass. It uses one recipient context and one deterministic dispersed arrival trace. User behaviour, actual iOS internal scheduling, and wellbeing or productivity are not represented. The fixed interval and alert-counting rule are explicit modelling assumptions.
 
 Next work can add clustered arrivals, compare intervals of 5, 15, and 30 minutes, then introduce urgency labels and an independently controlled user-authorized bypass. The DEL02.1 report contains the fuller inquiry, evidence, representation choices, interpretation, and rationale. This README is the practical run guide.
-
-## Work record
-
-The project-specific code, tests, documentation, and plots were drafted with Codex assistance and checked by execution and review. This should be reported accurately in the separate Individual Accountability Record. Upstream Mesa source is attributed separately.

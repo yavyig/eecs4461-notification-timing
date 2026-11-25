@@ -1,14 +1,12 @@
-# Notification presentation timing prototype
+# Notification presentation timing
 
-This DEL02 prototype compares immediate delivery with fixed 10-minute batching for the same 12 synthetic notifications in a 60-minute session. It is a runnable Mesa adaptation, not an implementation of iOS Scheduled Summary.
+How does showing notifications in groups every 10 minutes change the number of alert moments and how long each notice waits? This Mesa model compares immediate delivery with fixed 10-minute batching for the same 12 synthetic notifications in a 60-minute study session.
 
-Repository: https://github.com/yavyig/eecs4461-notification-timing
-
-The submission version uses the annotated tag `DEL02` and the release title `DEL02 Release`. Publishing the code does not submit the separate eClass report or Accountability Record.
+DEL03 adds a [final comparison](docs/final-inquiry.md), an [evidence inventory](docs/evidence/README.md), and a [map of the notification system](docs/figures/notification-timing-ecosystem-map.png) with an [editable SVG](docs/figures/notification-timing-ecosystem-map.svg). The comparison uses the model, inputs, and outputs from the [DEL02 Release](https://github.com/yavyig/eecs4461-notification-timing/releases/tag/DEL02).
 
 ## Requirements and installation
 
-Tested with Python 3.12.14 on Windows and Mesa 3.5.1. Use Python 3.12 or later. From this directory:
+The model uses Mesa 3.5.1. The original run used Python 3.12.14 on Windows. Use Python 3.12 or later. From this directory:
 
 ```text
 python -m venv .venv
@@ -65,10 +63,10 @@ The baseline produces 12 alert episodes, zero mean delay, and zero maximum delay
 python -m unittest discover -s tests -v
 ```
 
-Six checks cover exact batch boundaries, simultaneous arrivals, horizon flushing, empty queues, conservation, no early or duplicate release, independently calculated presentation times, and invalid arrivals. Run the source command, project command, and tests after installation. `docs/verification.txt` records the local and fresh-environment checks. To verify the release, download the `DEL02` source archive, extract it, and follow these installation and run commands from the extracted directory. Release notes record the released-file check.
+Six checks cover exact batch boundaries, simultaneous arrivals, horizon flushing, empty queues, conservation, no early or duplicate release, independently calculated presentation times, and invalid arrivals. Run the source command, project command, and tests after installation. `docs/verification.txt` records the local and fresh-environment checks. To reproduce this release, download the source archive for the `DEL03` tag, extract it, and run the commands above from that directory.
 
 ## Limits and next work
 
 The current slice includes no human agent, attention measure, app content, network latency, interruption levels, urgency labels, deadlines, or authorized urgent bypass. It uses one recipient context and one deterministic dispersed arrival trace. User behaviour, actual iOS internal scheduling, and wellbeing or productivity are not represented. The fixed interval and alert-counting rule are explicit modelling assumptions.
 
-Next work can add clustered arrivals, compare intervals of 5, 15, and 30 minutes, then introduce urgency labels and an independently controlled user-authorized bypass. The DEL02.1 report contains the fuller inquiry, evidence, representation choices, interpretation, and rationale. This README is the practical run guide.
+Next work can add clustered arrivals, compare intervals of 5, 10, and 15 minutes, then introduce urgency labels and an independently controlled user-authorized bypass. See the [final comparison](docs/final-inquiry.md) for the interpretation and next test.

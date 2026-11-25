@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="648pt" viewBox="0 0 1152 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>Notification timing ecosystem</title>
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Notification timing ecosystem</dc:title>
+    <dc:date>2026-11-25T10:48:13.768898</dc:date>
+    <dc:description>EECS 4461 DEL03.1 ecosystem map. Source model and results are the verified DEL02 prototype.</dc:description>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648
+L 1152 648
+L 1152 0
+L 0 0
+z
+" style="fill: #f5f7f6"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 0 0
+L 1152 0
+Q 1152 0 1152 0
+L 1152 123.12
+Q 1152 123.12 1152 123.12
+L 0 123.12
+Q 0 123.12 0 123.12
+L 0 0
+Q 0 0 0 0
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #102f2c; stroke: #102f2c; stroke-width: 1.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 56.88 149.04
+L 1095.12 149.04
+Q 1105.92 149.04 1105.92 159.84
+L 1105.92 220.32
+Q 1105.92 231.12 1095.12 231.12
+L 56.88 231.12
+Q 46.08 231.12 46.08 220.32
+L 46.08 159.84
+Q 46.08 149.04 56.88 149.04
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #ffffff; stroke: #ccd9d5; stroke-width: 1.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 246.24 257.04
+L 908.64 257.04
+Q 921.6 257.04 921.6 270
+L 921.6 468.72
+Q 921.6 481.68 908.64 481.68
+L 246.24 481.68
+Q 233.28 481.68 233.28 468.72
+L 233.28 270
+Q 233.28 257.04 246.24 257.04
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #e8f3ee; stroke-dasharray: 8.75,5.25; stroke-dashoffset: 0; stroke: #569286; stroke-width: 1.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 586.08 231.84
+Q 586.08 244.44 586.08 254.915735
+" clip-path="url(#p8aec5bb696)" style="fill: none; stroke-dasharray: 5.7,7.6; stroke-dashoffset: 0; stroke: #78958d; stroke-width: 1.9; stroke-linecap: round"/>
+    <path d="M 589.28 248.515735
+L 586.08 254.915735
+L 582.88 248.515735
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #78958d; stroke-dasharray: 5.7,7.6; stroke-dashoffset: 0; stroke: #78958d; stroke-width: 1.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 56.88 310.32
+L 200.16 310.32
+Q 210.96 310.32 210.96 321.12
+L 210.96 428.4
+Q 210.96 439.2 200.16 439.2
+L 56.88 439.2
+Q 46.08 439.2 46.08 428.4
+L 46.08 321.12
+Q 46.08 310.32 56.88 310.32
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #ffffff; stroke: #c7d8d2; stroke-width: 1.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 259.2 310.32
+L 416.88 310.32
+Q 427.68 310.32 427.68 321.12
+L 427.68 428.4
+Q 427.68 439.2 416.88 439.2
+L 259.2 439.2
+Q 248.4 439.2 248.4 428.4
+L 248.4 321.12
+Q 248.4 310.32 259.2 310.32
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #ffffff; stroke: #c7d8d2; stroke-width: 1.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 466.56 310.32
+L 668.88 310.32
+Q 679.68 310.32 679.68 321.12
+L 679.68 428.4
+Q 679.68 439.2 668.88 439.2
+L 466.56 439.2
+Q 455.76 439.2 455.76 428.4
+L 455.76 321.12
+Q 455.76 310.32 466.56 310.32
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #ffffff; stroke: #c7d8d2; stroke-width: 1.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 717.84 310.32
+L 894.96 310.32
+Q 905.76 310.32 905.76 321.12
+L 905.76 428.4
+Q 905.76 439.2 894.96 439.2
+L 717.84 439.2
+Q 707.04 439.2 707.04 428.4
+L 707.04 321.12
+Q 707.04 310.32 717.84 310.32
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #ffffff; stroke: #c7d8d2; stroke-width: 1.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 954 310.32
+L 1095.12 310.32
+Q 1105.92 310.32 1105.92 321.12
+L 1105.92 428.4
+Q 1105.92 439.2 1095.12 439.2
+L 954 439.2
+Q 943.2 439.2 943.2 428.4
+L 943.2 321.12
+Q 943.2 310.32 954 310.32
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #ffffff; stroke: #c7d8d2; stroke-width: 1.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 213.84 372.96
+Q 229.32 372.96 242.675735 372.96
+" clip-path="url(#p8aec5bb696)" style="fill: none; stroke: #176a5b; stroke-width: 1.9; stroke-linecap: round"/>
+    <path d="M 236.275735 369.76
+L 242.675735 372.96
+L 236.275735 376.16
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #176a5b; stroke: #176a5b; stroke-width: 1.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 430.56 372.96
+Q 441.36 372.96 450.035735 372.96
+" clip-path="url(#p8aec5bb696)" style="fill: none; stroke: #176a5b; stroke-width: 1.9; stroke-linecap: round"/>
+    <path d="M 443.635735 369.76
+L 450.035735 372.96
+L 443.635735 376.16
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #176a5b; stroke: #176a5b; stroke-width: 1.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 682.56 372.96
+Q 693 372.96 701.315735 372.96
+" clip-path="url(#p8aec5bb696)" style="fill: none; stroke: #176a5b; stroke-width: 1.9; stroke-linecap: round"/>
+    <path d="M 694.915735 369.76
+L 701.315735 372.96
+L 694.915735 376.16
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #176a5b; stroke: #176a5b; stroke-width: 1.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 908.64 372.96
+Q 924.12 372.96 937.475735 372.96
+" clip-path="url(#p8aec5bb696)" style="fill: none; stroke: #176a5b; stroke-width: 1.9; stroke-linecap: round"/>
+    <path d="M 931.075735 369.76
+L 937.475735 372.96
+L 931.075735 376.16
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #176a5b; stroke: #176a5b; stroke-width: 1.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 56.88 517.68
+L 1095.12 517.68
+Q 1105.92 517.68 1105.92 528.48
+L 1105.92 593.28
+Q 1105.92 604.08 1095.12 604.08
+L 56.88 604.08
+Q 46.08 604.08 46.08 593.28
+L 46.08 528.48
+Q 46.08 517.68 56.88 517.68
+z
+" clip-path="url(#p8aec5bb696)" style="fill: #fdfcf8; stroke: #cad9d4; stroke-width: 1.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 663.84 165.6
+L 663.84 215.28
+" clip-path="url(#p8aec5bb696)" style="fill: none; stroke: #d4e0dd; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #c5ebdd" x="46.8" y="35.510625" transform="rotate(-0 46.8 35.510625)">EECS 4461   /   DEL03.1</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 38px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #ffffff" x="46.8" y="80.091094" transform="rotate(-0 46.8 80.091094)">Notification timing ecosystem</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #e3ede9" x="48.24" y="108.189844" transform="rotate(-0 48.24 108.189844)">An iPhone setting provides the context. A one-hour Mesa simulation tests only delivery timing.</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #176a5b" x="61.92" y="173.387719" transform="rotate(-0 61.92 173.387719)">E1  /  DOCUMENTED IPHONE SETTING</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 16px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #16322e" x="61.92" y="196.38" transform="rotate(-0 61.92 196.38)">Apple’s Scheduled Summary</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="61.92" y="215.04375" transform="rotate(-0 61.92 215.04375)">Apple documents selecting apps and scheduling when their notifications are summarized.</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #16322e" x="684.72" y="186.417188" transform="rotate(-0 684.72 186.417188)">Role in this inquiry</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="684.72" y="209.204531" transform="rotate(-0 684.72 209.204531)">It motivates comparing immediate delivery with batching.</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #176a5b" x="248.4" y="282.931406" transform="rotate(-0 248.4 282.931406)">SIMULATION BOUNDARY</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="401.04" y="283.259062" transform="rotate(-0 401.04 283.259062)">One minute per step, minutes 0–60</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.8px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #176a5b" x="57.6" y="333.740344" transform="rotate(-0 57.6 333.740344)">ILLUSTRATIVE ACTOR</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #16322e" x="57.6" y="360.288281" transform="rotate(-0 57.6 360.288281)">App or service</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="57.6" y="385.29293" transform="rotate(-0 57.6 385.29293)">Generates a notice.</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="57.6" y="401.065547" transform="rotate(-0 57.6 401.065547)">Live app activity is</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="57.6" y="416.97293" transform="rotate(-0 57.6 416.97293)">outside the model.</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.8px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #176a5b" x="259.92" y="333.740344" transform="rotate(-0 259.92 333.740344)">E2  /  SYNTHETIC INPUT</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #16322e" x="259.92" y="360.288281" transform="rotate(-0 259.92 360.288281)">Scheduled arrivals</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="259.92" y="385.31" transform="rotate(-0 259.92 385.31)">12 preset arrivals.</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="259.92" y="401.065547" transform="rotate(-0 259.92 401.065547)">Each notice joins</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="259.92" y="416.905547" transform="rotate(-0 259.92 416.905547)">the pending queue.</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9.8px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #176a5b" x="467.28" y="333.740344" transform="rotate(-0 467.28 333.740344)">E2  /  SIMULATED RULE</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #16322e" x="467.28" y="360.189844" transform="rotate(-0 467.28 360.189844)">Pending queue</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="467.28" y="385.29293" transform="rotate(-0 467.28 385.29293)">Immediate release or</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="467.28" y="401.13293" transform="rotate(-0 467.28 401.13293)">release at fixed</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="467.28" y="416.97293" transform="rotate(-0 467.28 416.97293)">10-minute boundaries.</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 9.8px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #176a5b" x="718.56" y="333.740344" transform="rotate(-0 718.56 333.740344)">E4  /  SIMULATION OUTPUT</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #16322e" x="718.56" y="360.288281" transform="rotate(-0 718.56 360.288281)">Alert moments</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="718.56" y="385.366602" transform="rotate(-0 718.56 385.366602)">One per minute with</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="718.56" y="401.13293" transform="rotate(-0 718.56 401.13293)">a release. Wait time is</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="718.56" y="416.97293" transform="rotate(-0 718.56 416.97293)">recorded for each notice.</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9.8px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #176a5b" x="954.72" y="333.740344" transform="rotate(-0 954.72 333.740344)">ILLUSTRATIVE ACTOR</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #16322e" x="954.72" y="360.379687" transform="rotate(-0 954.72 360.379687)">Student recipient</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="954.72" y="385.225547" transform="rotate(-0 954.72 385.225547)">The study setting</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="954.72" y="401.065547" transform="rotate(-0 954.72 401.065547)">motivates the inquiry.</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="954.72" y="417.043008" transform="rotate(-0 954.72 417.043008)">Response is out of scope.</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #176a5b" x="248.4" y="464.832188" transform="rotate(-0 248.4 464.832188)">E3  /  SOFTWARE STRUCTURE</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="424.08" y="465.271875" transform="rotate(-0 424.08 465.271875)">Mesa supplies the agent and data collection structure.</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #16322e" x="61.92" y="543.789844" transform="rotate(-0 61.92 543.789844)">What the boundary leaves out</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="61.92" y="564.967813" transform="rotate(-0 61.92 564.967813)">The simulation tracks arrival and release minutes. Real iOS internals, user attention, urgency, and actions are outside its scope.</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #42605c" x="61.92" y="585.585" transform="rotate(-0 61.92 585.585)">Solid arrows trace the notification flow. The dotted arrow shows the design reference that motivates the comparison.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8aec5bb696">
+   <rect x="0" y="0" width="1152" height="648"/>
+  </clipPath>
+ </defs>
+</svg>
